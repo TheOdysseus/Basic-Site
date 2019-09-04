@@ -1,0 +1,11 @@
+body{
+    background: rgb(208,5,115);
+background: linear-gradient(90deg, rgba(208,5,115,1) 0%, rgba(9,13,121,0.46262254901960786) 53%, rgba(0,255,226,1) 100%);
+}
+
+#Title{
+    font-family: 'Hepta Slab', serif;
+    color:white;
+}
+
+
